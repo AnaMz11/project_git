@@ -1,3 +1,4 @@
 # this is a git practice 
 
-## making another chnage! 
+## making another change! 
+
